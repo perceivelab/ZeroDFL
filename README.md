@@ -27,7 +27,7 @@ This repo relies on the [FedTPG Framework](https://github.com/boschresearch/FedT
 The general command to launch a training is:
 
 ```shell
-python Launch_FL.py --root YOUR_DATA_PATH --model_name CHOSEN_MODEL --num_cls_per_client NUM_CLASS_PER_CLIENT --train_prompt 
+python FedTPG/Launch_FL.py --root YOUR_DATA_PATH --model_name CHOSEN_MODEL --num_cls_per_client NUM_CLASS_PER_CLIENT --train_prompt 
 ```
 
 `--model_name` specifies the method. It can be `fedtpg` for  FedTPG, `coop` for a federated variant of CoOp or `vlp` for a federated variant of Vision-Language prompt learning.
