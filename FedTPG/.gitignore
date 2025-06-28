@@ -1,0 +1,9 @@
+*.pyc
+*.ipynb
+.idea/
+
+/data
+/download_model
+/output
+/wandb
+/cross_cls

@@ -1,0 +1,7 @@
+cross_cls/
+output/
+checkpoints/
+models/
+wandb/
+.vscode/
+*.ipynb
