@@ -1,4 +1,7 @@
 <div align="center">    
+
+<img src="images/zeroDFL_method.png" alt="Zero-DFL Method" width="800"/>
+
  
 # Zero-DFL: Zero-shot Decentralized Federated Learning
 A. Masano, M. Pennisi, F. Proietto Salanitri, C. Spampinato, G. Bellitto
