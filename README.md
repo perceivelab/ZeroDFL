@@ -39,3 +39,20 @@ python FedTPG/Launch_FL.py --root YOUR_DATA_PATH --model_name CHOSEN_MODEL --num
 
 ### Prepare the data:
 Please refer to [CoOP](https://github.com/KaiyangZhou/CoOp/tree/main) for data preparation.
+
+
+# 📜 Citation
+
+```bibtex
+@INPROCEEDINGS{11228452,
+  author={Masano, Alessio and Pennisi, Matteo and Salanitri, Federica Proietto and Spampinato, Concetto and Bellitto, Giovanni},
+  booktitle={2025 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={Zero-shot Decentralized Federated Learning}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Privacy;Costs;Federated learning;Scalability;Zero shot learning;Robustness;Servers;Security;Iterative methods;Resilience},
+  doi={10.1109/IJCNN64981.2025.11228452}}
+
+```
